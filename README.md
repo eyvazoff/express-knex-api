@@ -15,7 +15,7 @@ git clone https://github.com/eyvazoff/exprerss-knex-api.git
 | Command | Description |
 |---------|-------------|
 | npm run dev | Listen on [http://localhost:5000](http://localhost:5000). |
-| nodemon | Listen on [http://localhost:3000](http://localhost:5000). (hot reload) |
+| nodemon | Listen on [http://localhost:5000](http://localhost:5000). (hot reload) |
 
 > Nodemon must be installed for hot reload
 
